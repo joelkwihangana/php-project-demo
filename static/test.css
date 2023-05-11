@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+.container {
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+}
+.form{
+    padding: 1rem;
+    width: 400px;
+    
+}
+.form form{
+    display: flex;
+    flex-direction: column;
+    
+}
